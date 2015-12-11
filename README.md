@@ -11,6 +11,7 @@ the markdown file associated with the story is there to help
 with that.
 
 # Stories
+- [Crezelda the Mermaid](crezelda_the_mermaid)
 
 # License
 The License has been included, but as a reference it is the
