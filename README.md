@@ -12,6 +12,7 @@ with that.
 
 # Stories
 - [Crezelda the Mermaid](crezelda_the_mermaid)
+- [The Princess and the Knight](the_princess_and_the_knight)
 
 # License
 The License has been included, but as a reference it is the
